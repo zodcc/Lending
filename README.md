@@ -1,3 +1,4 @@
+![Deploy Status](https://github.com/zodcc/Lending/actions/workflows/deploy.yml/badge.svg)
 # 🏔️ Горнолыжная школа «Экстрим-Высота»
 
 Адаптивный одностраничный лендинг (Landing Page) для горнолыжной школы и клуба. 
